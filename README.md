@@ -1,1 +1,1 @@
-# School-Management-Sys
+# MiniProj-ToDo
